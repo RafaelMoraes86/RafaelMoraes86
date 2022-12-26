@@ -21,7 +21,7 @@ _<a href="https://rodolfomori.com.br/devclub/"><img src="https://media.licdn.com
 
 -<a href="https://www.instagram.com/rafael_moraes86/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
--<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo=linkd" /> :hammer:<b>Esta em Construção</b>
+-<a href="https://www.linkedin.com/in/rafael-campos-de-moraes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo=linkd" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMoraes86&show_icons=true&theme=transparent)
 
